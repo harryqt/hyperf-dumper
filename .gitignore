@@ -1,5 +1,1 @@
-.idea
-vendor
-*.lock
-.codeCoverage
-composer.lock
+/vendor
