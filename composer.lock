@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3b603efbdc1749a661efb73f2a8762cb",
+    "content-hash": "d54d042d200a4e66f266c0e22af8d420",
     "packages": [
         {
             "name": "hyperf/codec",

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use Fangx\Dumper\Dumper;
+use Harryqt\Dumper\Dumper;
 
 if (! function_exists('hd')) {
     function hd(...$args)

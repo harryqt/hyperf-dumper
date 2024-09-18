@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Fangx\Dumper;
+namespace Harryqt\Dumper;
 
 use Hyperf\HttpMessage\Server\Response;
 use Hyperf\HttpMessage\Stream\SwooleStream;

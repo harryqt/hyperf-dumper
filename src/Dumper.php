@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Fangx\Dumper;
+namespace Harryqt\Dumper;
 
 use Symfony\Component\VarDumper\Caster\ReflectionCaster;
 use Symfony\Component\VarDumper\Cloner\VarCloner;

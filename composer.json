@@ -1,5 +1,5 @@
 {
-    "name": "fangx/dumper",
+    "name": "harryqt/hyperf-dumper",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Fangx\\Dumper\\": "src/"
+            "Harryqt\\Dumper\\": "src/"
         },
         "files": [
             "src/func.php"
@@ -38,10 +38,5 @@
     },
     "config": {
         "sort-packages": true
-    },
-    "extra": {
-        "hyperf": {
-            "config": "Fangx\\Dumper\\ConfigProvider"
-        }
     }
 }
