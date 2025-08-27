@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Harryqt\Dumper;
 
-use Hyperf\HttpMessage\Server\Response;
+use Hyperf\HttpMessage\Base\Response;
 use Hyperf\HttpMessage\Stream\SwooleStream;
 
 class HttpResponse extends Response
